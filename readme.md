@@ -13,3 +13,9 @@ javascript and css file have been prefixed with "hrvst-chzn". Also,
 support for optgroup searching is enabled as well.
 
 Have fun!
+
+#Install
+To install, [download the crx
+file](https://github.com/blackrobot/harvest-chosen/raw/master/harvest-chrome-extension.crx)
+and open your [extensions tab](chrome://chrome/extensions/). Then drag
+the downloaded extension into the tab, and "add".
