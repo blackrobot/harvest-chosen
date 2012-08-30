@@ -26,3 +26,6 @@ for optgroup searching is enabled which comes from
 [this branch of the plugin](https://github.com/harvesthq/chosen/tree/search_improvements).
 
 Have fun!
+
+# Credits
+Thanks to [Ben Paddock](http://benpaddockdesign.com) for creating the icons.
